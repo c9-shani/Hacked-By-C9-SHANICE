@@ -8,7 +8,7 @@ from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, Callback
 import os
 
 # Bot token set as environment variable
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = os.environ.get("8690394193:AAG7u8vfBK8oePPG3E-a5SWzGF7SPMwIAhQ")
 
 # ------------------ BUTTON MENU ------------------ #
 def start(update: Update, context: CallbackContext):
